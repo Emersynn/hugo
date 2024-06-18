@@ -1,7 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://Emersynn.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Mano Svetainė"
 theme = "ananke"
 
-[params]
-  # Pridėkite savo papildomus nustatymus čia
